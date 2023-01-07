@@ -1,12 +1,12 @@
 # Testing-Practice
-A List of the function:
+A List of the functions:
 
--A capitalize function that takes a string and returns it with the first character capitalized.
+-capitalize() that takes a string and returns it with the first character capitalized.
 
--A reverseString function that takes a string and returns it reversed.
+-reverseString() that takes a string and returns it reversed.
 
--A calculator object that contains functions for the basic operations: add, subtract, divide, and multiply. Each of these functions should take two numbers and return the correct calculation.
+-calculator() object that contains functions for the basic operations: add, subtract, divide, and multiply. Each of these functions should take two numbers and return the correct calculation.
 
--A caesarCipher function that takes a string and returns it with each character “shifted”. Read more about how a Caesar cipher works on this website.
+-caesarCipher() that takes a string and returns it with each character “shifted”. Read more about how a Caesar cipher works on this website.
 
--An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
+-analyzeArray() that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
