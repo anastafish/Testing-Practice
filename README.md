@@ -1,5 +1,6 @@
 # Testing-Practice
 A List of the function:
+
 -A capitalize function that takes a string and returns it with the first character capitalized.
 
 -A reverseString function that takes a string and returns it reversed.
